@@ -6,7 +6,7 @@ IP=192.168.XYZ.XYZ
 clear
 
 echo ""
-echo "Revision NMTI - PSI 2023"
+echo "Revision NMTI - PSI 2024"
 
 echo ""
 echo "IP"
